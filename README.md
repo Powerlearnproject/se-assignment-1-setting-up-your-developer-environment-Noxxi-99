@@ -133,4 +133,4 @@ Install the following extensions and plugins to enhance your development environ
   - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
  Reflection
 
-This process was made very straightforward and easy to follow
+This process was made very straightforward and easy to follow, the dificulties only occured when installing visualcode because my laptop was not used to running complicated apps like it. Visualcode would not open easily for the first few times and i had to re download it.
